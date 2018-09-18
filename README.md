@@ -26,7 +26,7 @@ NIT Rourkela
 1) Clone the Project 
 
 2) Importing Java Project in NetBeans
-- Clone the project in the NetBeans 8.1
+- Clone the project in the NetBeans 8.2
 - NetBeans->Team->Git->Clone and copy-paste the https://github.com/dreamakhi/Library-management-system link
 
 3) Importing Database(Schema+Data)
