@@ -2,11 +2,11 @@
 Library Management System using Java and MySQL
 
 # Minor Project
-Course: CS 257
+M.Tech CS3 software architecture Project
+NIT Rourkela
 
 # Developed By
-- Bikash Kumar Tudu
-- Piyush Kalkute
+- Akhilesh Kumar Ranjan
 
 # Environment and Requirement
 - Programming Language: JAVA with  Swings
@@ -23,11 +23,11 @@ Course: CS 257
 - /MySQL Connector: Contains JDBC/MySQL JConnnector
 
 # Instructions
-1) Clone the Project using link https://github.com/EncoSier/DBISProject.git or Download the zip
+1) Clone the Project 
 
 2) Importing Java Project in NetBeans
 - Clone the project in the NetBeans 8.1
-- NetBeans->Team->Git->Clone and copy-paste the https://github.com/EncoSier/DBISProject.git link
+- NetBeans->Team->Git->Clone and copy-paste the https://github.com/dreamakhi/Library-management-system link
 
 3) Importing Database(Schema+Data)
 - Import the Database in the MySQL database using MySQL WorkBench(Version is mentioned above)
